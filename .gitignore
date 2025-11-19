@@ -2,3 +2,4 @@ venv/
 venv_mp/ 
 __pycache__/ 
 *.pyc 
+.gradio/ 
